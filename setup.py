@@ -118,7 +118,7 @@ install_requires = [
     "seaborn>=0.10.1,<=0.10.1",
     "seqeval>=1.2.2,<=1.2.2",
     "sentencepiece>=0.1.95,<=0.1.95",
-    "sentinelsat>=0.14,<=0.14",
+    "sentinelsat>=0.14,<1.1",
     "setuptools>=54.2.0,<=54.2.0",
     "spacy<2.3.5",
     "tensorflow>=2.2.2,<2.6",
