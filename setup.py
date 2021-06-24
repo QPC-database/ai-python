@@ -105,7 +105,7 @@ install_requires = [
     "pypandoc>=1.5.0,<=1.5.0",
     "pyparsing>=2.0.3",
     "pyscaffold>=3.2.1,<=3.2.1",
-    "pyspark==2.4.0",
+    "pyspark==3.1.2",
     "python-dateutil>=2.1",
     "pytorch-pretrained-bert>=0.6.2,<=0.6.2",
     "pytz>=2020.1,<=2020.1",
