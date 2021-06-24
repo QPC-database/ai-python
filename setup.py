@@ -55,7 +55,7 @@ install_requires = [
     "cvxopt>=1.2.6,<=1.2.6",
     "databricks-cli>=0.14.1,<=0.14.1",
     "datasets>=1.3.0,<=1.3.0",
-    "dateparser>=0.7.6,<=0.7.6",
+    "dateparser>=0.7.6,<1.0.1",
     "dm-tree>=0.1.5,<=0.1.5",
     "eli5>=0.10.0,<=0.10.0",
     "fairlearn>=0.5.0,<=0.5.0",
